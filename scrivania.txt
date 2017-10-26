@@ -1,3 +1,5 @@
 1. inserisco immagine di riferimento
 2. inizio modellazione gamba
 3. fine modellazione gamba
+4. copia gambe
+5. inizio ripiano
