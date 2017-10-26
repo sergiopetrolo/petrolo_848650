@@ -1,3 +1,4 @@
 1. inserisco immagine di riferimento
 2. inizio modellazione gamba
 3. variazione gamba
+4. fine gamba e copia altre gambe
